@@ -7,7 +7,6 @@
     font-weight: 600;
     display: inline-block; 
 }  
-
 .navigation {
     display: inline-block;
     margin-left: 800px;
@@ -15,7 +14,6 @@
     margin-bottom: 35.5px;
     margin-right: 12px;
 } 
-
 a {
     color: black;
     text-decoration: none;
@@ -30,7 +28,6 @@ a {
     margin: 0 12px;
     display: inline-block; 
 }
-
 .button {
     border: 1px solid #2203E4;
     font-size: 21px;
@@ -39,12 +36,6 @@ a {
     margin-right: 12px;
     margin-left: 20px;
 }
-
-.block1 {
-    display: inline-block; 
-    vertical-align: top;
-}
-
 .landing {
     display: inline-block; 
     padding-top: 90px;
@@ -61,13 +52,6 @@ a {
     vertical-align: top;
     margin-bottom: 132px;
 }  
-
-.photo1 {
-    display: inline-block;
-    width: 470.54px;
-    height: 462.38px;
-    margin-left: 95px;
-} 
 .title {
     font-family: 'Poppins';
     font-style: normal;
@@ -75,7 +59,6 @@ a {
     font-size: 47px;
     color:black;
 } 
-
 #text {
     font-family: 'Poppins';
     font-style: normal;
@@ -84,7 +67,6 @@ a {
     color: black;
     margin: 0; 
 }
-
 .button2 {
     color: white;
     background-color: #0062FF;
@@ -96,7 +78,6 @@ a {
     font-size: 16px;
     margin: 24px 0;
 }
-
 .button3 {
     border: 1px solid #575757;
     font-family: 'Poppins';
@@ -107,7 +88,6 @@ a {
     margin: 24px 24px;
     padding: 10px 16px;
 }
-
 .h_Authors {
     font-family: 'Poppins';
     font-style: normal;
@@ -117,7 +97,6 @@ a {
     text-align: center;
     margin-bottom: 0px;
 }
-
 .authors_text {
     font-family: 'Poppins';
     font-style: normal;
@@ -127,7 +106,6 @@ a {
     text-align: center;
     margin-top: 12px;
 }
-
 .frame11 {
     margin-left: 131px;
     margin-top: 36px;
@@ -135,12 +113,10 @@ a {
     width: 150px;
     height: 150px;
 }
-
 .description {
     display: inline-block;
     margin-top: 0;
-}
-
+} 
 .name {
     font-family: 'Poppins';
     font-style: normal;
@@ -150,7 +126,6 @@ a {
     margin-bottom: 0px;
     margin-left: 34px;
 }
-
 .job {
     font-family: 'Poppins';
     font-style: normal;
@@ -160,7 +135,6 @@ a {
     margin-top: 0px;
     margin-left: 34px;
 }
-
 #text1 {
     margin-left: 34px;
     font-family: 'Poppins';
@@ -169,13 +143,10 @@ a {
     font-size: 16px;
     color: #575757;
 }
-
 .option {
     display: inline-block;
     margin-top: 36px;
-    /* margin-left: 112px; */
 }
-
 .name2 {
     font-family: 'Poppins';
     font-style: normal;
@@ -185,7 +156,6 @@ a {
     margin-bottom: 0;
     margin-top: 0px;
 }
-
 .job2 {
     margin-top: 0;
     font-family: 'Poppins';
@@ -195,7 +165,6 @@ a {
     color: #FFBE0B;
     margin-bottom: 8px;
 }
-
 #name {
     font-family: 'Poppins';
     font-style: normal;
@@ -205,7 +174,6 @@ a {
     margin-bottom: 0;
     margin-top: 0px;
 }
-
 #job {
     margin-top: 0;
     font-family: 'Poppins';
@@ -215,7 +183,6 @@ a {
     color: #575757;
     margin-bottom: 8px;
 }
-
 .vector {
     display: inline-block;
     width: 10.09px;
@@ -223,18 +190,14 @@ a {
     margin-left: 110px;
     margin-bottom: 65px;
 } 
-
  .share {
     margin-left: 24px;
 }
-
 .section3 {
     background-color: #0062FF;
     width: 100%;
-    height: 702px;
     margin-top: 143px;
 }
-
 .for_who {
     font-family: 'Poppins';
     font-style: normal;
@@ -246,7 +209,6 @@ a {
     margin-bottom: 0;
    
 }
-
 .for_who_text {
     font-family: 'Poppins';
     font-style: normal;
@@ -257,19 +219,16 @@ a {
     text-align: center;
     margin-bottom: 0;
 }
-
 .block1 {
     display: inline-block;
     margin-top: 64px;
 }
-
 .photo_students {
     width: 122px;
     height: 125px;
     margin-left: 123.5px;
     display: inline-block;
 }
-
 .h_for {
     font-family: 'Poppins';
     font-style: normal;
@@ -280,7 +239,6 @@ a {
     margin-top: 15px;
     margin-bottom: 0px;
 }
-
 .for_text {
     font-family: 'Poppins';
     font-style: normal;
@@ -291,21 +249,17 @@ a {
     margin-top: 8px;
     
 } 
-
 .for {
     display: inline-block;
     vertical-align: top;
 }
-
 .photo_freelaners {
     margin-left: 80px;
 }
-
 .block2 {
     display: inline-block;
     margin-top: 46px;
 }
-
 .button4 {
     font-family: 'Poppins';
     font-style: normal;
@@ -317,11 +271,9 @@ a {
     padding: 10px 16px;
     margin: 64px 705px;
 }
-
 .section4 {
     width: 100%;
 }
-
 .check_demo {
     font-family: 'Poppins';
     font-style: normal;
@@ -332,7 +284,6 @@ a {
     margin-bottom: 0;
     padding-top: 63px;
 }
-
 .check_demo_text {
     font-family: 'Poppins';
     font-style: normal;
@@ -342,7 +293,6 @@ a {
     margin-top: 12px;
     text-align: center;
 }
-
 .section4_h {
     font-family: 'Poppins';
     font-style: normal;
@@ -351,7 +301,6 @@ a {
     color: #000000;
     text-align: center;
 }
-
 .section4_text {
     font-family: 'Poppins';
     font-style: normal;
@@ -360,26 +309,22 @@ a {
     color: #575757;
     text-align: center;
 }
-
 .block4 {
     padding-left: 203px;
     padding-top: 44px;
     display: inline-block;
     margin-bottom: 130px;
 }
-
 .photo_video {
     width: 444px;
     height: 296px;
     display: inline-block;
     margin-left: 48px;
 }
-
 .section5 {
     width: 100%;
     background-color: #FFBE0B;
 }
-
 .opinions {
     font-family: 'Poppins';
     font-style: normal;
@@ -390,7 +335,6 @@ a {
     margin-bottom: 0;
     padding-top: 67px;
 }
-
 .work_block {
     width: 702px;
     height: 230px;
@@ -402,14 +346,12 @@ a {
     display: inline-block;
     margin-bottom: 67px;
 }
-
 .message_image {
     width: 47px;
     height: 41px;
     padding: 94.5px 16px;
     display: inline-block;
 }
-
 .work_block_h {
     font-family: 'Poppins';
     font-style: normal;
@@ -422,7 +364,6 @@ a {
     margin-bottom: 3px;
     margin-top: 0px;
 }
-
 .stars {
     width: 158px;
     height: 26px;
@@ -431,7 +372,6 @@ a {
     padding-top: 59.5px;
     margin-left: 7px;
 }
-
 .work_block_h2 {
     font-family: 'Poppins';
     font-style: normal;
@@ -441,12 +381,10 @@ a {
     margin-top: 0;
     margin-bottom: 0px;
 }
-
 .block8 {
     display: inline-block;
     vertical-align: top;
-}
-
+} 
 .work_block_text {
     font-family: 'Poppins';
     font-style: normal;
@@ -455,7 +393,6 @@ a {
     color: #575757;
     margin-top: 16px;
 }
-
 .start_h{
     font-family: 'Poppins';
     font-style: normal;
@@ -466,12 +403,6 @@ a {
     margin-top: 89px;
     margin-bottom: 0px;
 }
-
-.block9 {
-    display: inline-block;
-    vertical-align: top;
-}
-
 .iphone14 {
     width: 327.05px;
     height: 321.38px;
@@ -480,7 +411,6 @@ a {
     margin-top: 74px;
     margin-bottom: 74px;
 }
-
 .product_h {
     font-family: 'Poppins';
     font-style: normal;
@@ -490,7 +420,6 @@ a {
     margin-bottom: 0;
     margin-top: 0px;
 }
-
 .product_text {
     font-family: 'Poppins';
     font-style: normal;
@@ -500,7 +429,6 @@ a {
     margin-top: 16px;
     margin-bottom: 0;
 }
-
 .button7 {
     font-family: 'Poppins';
     font-style: normal;
@@ -513,18 +441,15 @@ a {
     margin-top: 16px;
     margin-left: 0px;
 }
-
 .section6_text {
     display: inline-block;
     vertical-align: top;
     margin-left: 13px;
 }
-
 .stars2 {
     margin-top: 130px;
     margin-bottom: 16px;
 }
-
 .reviews {
     display: inline-block;
     vertical-align: top;
@@ -536,7 +461,6 @@ a {
     margin-left: 17px;
     margin-top: 135.5px;
 }
-
 .question {
     font-family: 'Poppins';
     font-style: normal;
@@ -547,7 +471,6 @@ a {
     text-align: center;
     margin-bottom: 28px;
 }
-
 #email {
     font-family: 'Poppins';
     font-style: normal;
@@ -562,14 +485,10 @@ a {
     margin-top: 28px;
     border: 0;
 }
-
 ::placeholder {
     color: #2203E4;
 }
-
 .button8 {
-    width: 530px;
-    height: 39px;
     background-color: #0062FF;
     color: #FFFFFF;
     font-family: 'Poppins';
@@ -577,8 +496,6 @@ a {
     font-weight: 400;
     font-size: 16px;
     text-align: center;
-    margin-top: 14px;
-    margin-bottom: 107.62px;
-    margin-left: 500px;
-    padding-top: 20px;
+    padding: 10px 160.5px;
+    margin: 14px 502.48px 103.62px 507px;
 }
